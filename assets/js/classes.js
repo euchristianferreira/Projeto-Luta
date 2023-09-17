@@ -1,8 +1,4 @@
-//Knight or Sorcerer
-//LittleMonster or BigMonster
-
 class Character {
-
     _life = 1;
     maxLife = 1;
     attack = 0;
